@@ -5,10 +5,11 @@ import TheWelcome from './components/TheWelcome.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
+    <img alt="Vue logo" class="logo" src="./assets/icon0009_carpool-512.webp" width="125" height="125" style=" -webkit-filter: invert(100%); /* Safari 6.0 - 9.0 */
+  filter: invert(100%);"/>
 
     <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+      <HelloWorld msg="Toot Toot" />
     </div>
   </header>
 
