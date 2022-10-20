@@ -9,7 +9,7 @@ import TheWelcome from './components/TheWelcome.vue'
   filter: invert(100%);"/>
 
     <div class="wrapper">
-      <HelloWorld msg="Toot Toot" />
+      <HelloWorld msg="Toot Toot hello" />
     </div>
   </header>
 
